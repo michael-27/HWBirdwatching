@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21307920586",
+    "firebase_url": "https://hwbirdwatching.firebaseio.com",
+    "project_id": "hwbirdwatching",
+    "storage_bucket": "hwbirdwatching.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21307920586:android:2d099bcc551c92688fe433",
+        "android_client_info": {
+          "package_name": "com.example.hwbirdwatching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21307920586-347do8hj8m1ku8iqmg76d0sq91i3ft0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZVwKne0ylbwotC4YIjIp3clZYRekDLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21307920586-347do8hj8m1ku8iqmg76d0sq91i3ft0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
